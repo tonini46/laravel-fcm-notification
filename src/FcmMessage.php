@@ -1,6 +1,6 @@
 <?php
 
-namespace Benwilkins\FCM;
+namespace Tonini46\FCM;
 
 /**
  * Class FcmMessage.
